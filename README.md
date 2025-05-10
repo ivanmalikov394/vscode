@@ -77,3 +77,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) license.
+https://vscode.dev/github.com/microsoft/vscode/blob/main/test/automation/tools/copy-driver-definition.js#L7
+vktnda
+89009627198
+[text d htlfrnjht rjlf vs code from ms ](https://vscode.dev/github.com/microsoft/vscode/blob/main/test/automation/tools/copy-driver-definition.js#L7)
+https://vscode.dev/github.com/microsoft/vscode/blob/main/test/automation/tools/copy-driver-definition.js#L7
